@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-keypress": "^1.1.0",
-    "vuetify": "^2.2.11",
+    "vuetify": "^2.6.10",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
